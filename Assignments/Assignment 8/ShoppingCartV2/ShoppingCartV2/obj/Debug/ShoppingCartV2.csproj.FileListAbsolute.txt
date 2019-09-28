@@ -1,0 +1,2 @@
+C:\Users\Levi\Documents\Computer Science\School\Database\Assignments\Assignment 8\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.csprojAssemblyReference.cache
+C:\Users\Levi\Documents\Computer Science\School\Database\Assignments\Assignment 8\ShoppingCartV2\ShoppingCartV2\obj\Debug\ShoppingCartV2.csproj.CoreCompileInputs.cache

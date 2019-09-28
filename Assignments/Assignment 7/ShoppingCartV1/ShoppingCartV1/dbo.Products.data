@@ -1,0 +1,6 @@
+﻿SET IDENTITY_INSERT [dbo].[Products] ON
+INSERT INTO [dbo].[Products] ([ProductID], [ProductType], [ProductName], [ImageFile], [UnitPrice], [MaxAmount], [DefaultAmount]) VALUES (1, N'Tab1Orders', N'Layer1 - Flower', N'Layer1Option1.jpg', CAST(5.99 AS Decimal(18, 2)), 10, 0)
+INSERT INTO [dbo].[Products] ([ProductID], [ProductType], [ProductName], [ImageFile], [UnitPrice], [MaxAmount], [DefaultAmount]) VALUES (3, N'Tab1Orders', N'Layer1 - Star', N'Layer1Option2.jpg', CAST(10.99 AS Decimal(18, 2)), 10, 0)
+INSERT INTO [dbo].[Products] ([ProductID], [ProductType], [ProductName], [ImageFile], [UnitPrice], [MaxAmount], [DefaultAmount]) VALUES (4, N'Tab1Orders', N'Layer1 - Strawberry', N'Layer1Option3.jpg', CAST(15.99 AS Decimal(18, 2)), -1, 0)
+INSERT INTO [dbo].[Products] ([ProductID], [ProductType], [ProductName], [ImageFile], [UnitPrice], [MaxAmount], [DefaultAmount]) VALUES (6, N'Tab2Orders', N'Layer2 - Coconut', N'Layer2Option1.jpg', CAST(15.99 AS Decimal(18, 2)), -1, 0)
+SET IDENTITY_INSERT [dbo].[Products] OFF
